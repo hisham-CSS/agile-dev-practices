@@ -1,0 +1,2 @@
+- [ ] Fix nested `<a>` tag error in `Layout.tsx`
+- [ ] Verify navigation works correctly without errors
